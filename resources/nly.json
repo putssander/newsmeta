@@ -1,0 +1,22 @@
+[
+    {
+        "title": "NOS Jeugdjournaal",
+        "url": "https://jeugdjournaal.nl/",
+        "target_audience": "Children aged 8–12"
+    },
+    {
+        "title": "NOS op 3",
+        "url": "https://nos.nl/op3",
+        "target_audience": "Teenagers and young adults"
+    },
+    {
+        "title": "7Days",
+        "url": "https://www.sevendays.nl/",
+        "target_audience": "Teenagers aged 12–18"
+    },
+    {
+        "title": "Kidsweek",
+        "url": "https://www.kidsweek.nl/",
+        "target_audience": "Children aged 7–12"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "rank": 1,
+        "title": "NU.nl",
+        "url": "https://www.nu.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 2,
+        "title": "AD.nl",
+        "url": "https://www.ad.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 3,
+        "title": "NOS.nl",
+        "url": "https://www.nos.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 4,
+        "title": "De Telegraaf",
+        "url": "https://www.telegraaf.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 5,
+        "title": "de Volkskrant",
+        "url": "https://www.volkskrant.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 6,
+        "title": "NRC",
+        "url": "https://www.nrc.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 7,
+        "title": "Trouw",
+        "url": "https://www.trouw.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 8,
+        "title": "Het Financieele Dagblad",
+        "url": "https://fd.nl",
+        "target_audience": "Business professionals"
+    },
+    {
+        "rank": 9,
+        "title": "Noordhollands Dagblad",
+        "url": "https://www.noordhollandsdagblad.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 10,
+        "title": "PZC",
+        "url": "https://www.pzc.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 11,
+        "title": "Eindhovens Dagblad",
+        "url": "https://www.ed.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 12,
+        "title": "Het Parool",
+        "url": "https://www.parool.nl",
+        "target_audience": "General public"
+    },
+    {
+        "rank": 13,
+        "title": "Friesch Dagblad",
+        "url": "https://frieschdagblad.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 14,
+        "title": "Reformatorisch Dagblad",
+        "url": "https://www.rd.nl",
+        "target_audience": "Christian community"
+    },
+    {
+        "rank": 15,
+        "title": "Dagblad van het Noorden",
+        "url": "https://www.dvhn.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 16,
+        "title": "Leeuwarder Courant",
+        "url": "https://www.lc.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 17,
+        "title": "Haarlems Dagblad",
+        "url": "https://www.haarlemsdagblad.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 18,
+        "title": "De Gooi- en Eemlander",
+        "url": "https://www.gooieneemlander.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 19,
+        "title": "De Gelderlander",
+        "url": "https://www.gelderlander.nl",
+        "target_audience": "Regional audience"
+    },
+    {
+        "rank": 20,
+        "title": "De Stentor",
+        "url": "https://www.destentor.nl",
+        "target_audience": "Regional audience"
+    }
+]
